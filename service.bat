@@ -18,7 +18,6 @@ sc config DispBrokerDesktopSvc start=disabled
 sc config LxpSvc start=disabled
 sc config tzautoupdate start=disabled
 sc config NaturalAuthentication start=disabled
-sc config camsvc start=disabled
 sc config SEMgrSvc start=disabled
 sc config XblGameSave start=disabled
 sc config XboxNetApiSvc start=disabled
